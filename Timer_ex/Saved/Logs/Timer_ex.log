@@ -1200,3 +1200,16 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.17-09.37.38:122][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 344.810303
 [2025.11.17-09.37.39:120][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.17-09.37.39:120][652]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 345.474945, Update Interval: 357.614075
+[2025.11.17-09.39.52:462][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.17-09.39.52:521][730]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ
+[2025.11.17-09.39.52:521][730]LogSavePackage: Moving '../../../../../../Users/m_sana/Documents/GitHub/Timer_Exo/Timer_ex/Saved/DLNCFC4C5RQ8EDPCDYCKHQ5E23618F4ED906585B690CBF38CEE5AD.tmp' to '../../../../../../Users/m_sana/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset'
+[2025.11.17-09.39.52:528][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.910 ms (total: 139.624 ms)
+[2025.11.17-09.39.52:575][730]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.17-09.39.52:575][730]LogContentValidation: Enabled validators:
+[2025.11.17-09.39.52:575][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.17-09.39.52:575][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.17-09.39.52:575][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.17-09.39.52:575][730]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.17-09.39.52:575][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.17-09.39.52:575][730]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.17-09.39.52:575][730]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validation de la ressource
