@@ -1197,3 +1197,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.17-09.34.03:133][782]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.17-09.34.03:133][782]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validation de la ressource
 [2025.11.17-09.34.03:145][782]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/m_sana/Documents/GitHub/Timer_Exo/Timer_ex/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.17-09.37.38:122][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 344.810303
+[2025.11.17-09.37.39:120][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-09.37.39:120][652]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 345.474945, Update Interval: 357.614075
