@@ -1180,3 +1180,20 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.17-09.32.00:507][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1416957435
 [2025.11.17-09.32.00:507][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6.860513, Update Interval: 337.603699
 [2025.11.17-09.33.48:020][333]LogDerivedDataCache: C:/Users/m_sana/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.17-09.33.58:662][365]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.11.17-09.33.58:775][365]LogPSOHitching: Encountered 250 PSO creation hitches so far (56 graphics, 194 compute). 0 of them were precached.
+[2025.11.17-09.33.58:924][366]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.11.17-09.34.03:008][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.17-09.34.03:072][782]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ
+[2025.11.17-09.34.03:073][782]LogSavePackage: Moving '../../../../../../Users/m_sana/Documents/GitHub/Timer_Exo/Timer_ex/Saved/DLNCFC4C5RQ8EDPCDYCKHQFBC7BA4E4C03370BEA5936A176B52478.tmp' to '../../../../../../Users/m_sana/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset'
+[2025.11.17-09.34.03:081][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.714 ms
+[2025.11.17-09.34.03:133][782]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.17-09.34.03:133][782]LogContentValidation: Enabled validators:
+[2025.11.17-09.34.03:133][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.17-09.34.03:133][782]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.17-09.34.03:133][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.17-09.34.03:133][782]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.17-09.34.03:133][782]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.17-09.34.03:133][782]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.17-09.34.03:133][782]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validation de la ressource
+[2025.11.17-09.34.03:145][782]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/m_sana/Documents/GitHub/Timer_Exo/Timer_ex/Saved/SourceControl/UncontrolledChangelists.json
