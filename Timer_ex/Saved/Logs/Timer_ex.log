@@ -23925,3 +23925,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.03-22.24.05:015][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2026.01.03-22.24.05:043][535]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2026.01.03-22.24.05:095][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.03-22.24.51:170][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39724.464844
