@@ -2989,3 +2989,594 @@ Sampler Limit: 32
 [2026.01.05-15.29.11:832][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3535.593018
 [2026.01.05-15.29.11:981][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.05-15.29.11:981][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3535.726074, Update Interval: 322.700287
+[2026.01.05-15.32.00:506][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Vitrine.BP_Vitrine_C
+[2026.01.05-15.32.00:506][319]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Vitrine.BP_Vitrine_C
+[2026.01.05-15.32.00:507][319]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Vitrine.BP_Vitrine as actor: BP_Vitrine_C /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR:PersistentLevel.BP_Vitrine_C_6
+[2026.01.05-15.32.00:508][319]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Vitrine.BP_Vitrine as actor: BP_Vitrine_C /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR:PersistentLevel.BP_Vitrine_C_6
+[2026.01.05-15.32.01:049][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.05-15.32.01:051][350]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.01.05-15.32.01:055][350]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Vitrine.BP_Vitrine_C
+[2026.01.05-15.32.01:055][350]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Vitrine.BP_Vitrine_C
+[2026.01.05-15.32.01:057][350]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Vitrine.BP_Vitrine as actor: BP_Vitrine_C /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR:PersistentLevel.BP_Vitrine_C_7
+[2026.01.05-15.32.01:057][350]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Vitrine.BP_Vitrine as actor: BP_Vitrine_C /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR:PersistentLevel.BP_Vitrine_C_7
+[2026.01.05-15.32.12:197][978]LogDerivedDataCache: C:/Users/h_saintremy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.05-15.32.29:017][913]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Vitrine.BP_Vitrine
+[2026.01.05-15.32.29:018][913]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.01.05-15.34.15:996][154]LogSlate: Window 'BP_Vitrine' being destroyed
+[2026.01.05-15.34.18:884][318]LogSlate: Window 'BP_Vitrine' being destroyed
+[2026.01.05-15.34.26:114][724]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.286722 sec (time since issued).
+[2026.01.05-15.34.26:128][725]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.002255 sec (time since issued).
+[2026.01.05-15.34.26:305][734]57807_vfx__MessageLog: System successfully compiled.
+[2026.01.05-15.35.24:437][191]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3908.181641
+[2026.01.05-15.35.24:586][200]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.05-15.35.24:586][200]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3908.315430, Update Interval: 307.055267
+[2026.01.05-15.35.59:252][263]LogEditorTransaction: Undo Move Elements
+[2026.01.05-15.35.59:269][263]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001750 sec (time since issued).
+[2026.01.05-15.35.59:451][263]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001564 sec (time since issued).
+[2026.01.05-15.35.59:847][271]57807_vfx__MessageLog: System successfully compiled.
+[2026.01.05-15.36.50:838][261]LogBlueprint: Error: [AssetLog] C:\Users\h_saintremy\Documents\GitHub\Timer_Exo\Timer_ex\Content\BP_Vitrine.uasset: [Compiler] This blueprint (self) is not a InstancedStaticMeshComponent, therefore ' Target ' must have a connection.
+[2026.01.05-15.36.50:851][261]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.05-15.36.50:921][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.01.05-15.39.39:905][326]LogEditorTransaction: Undo Delete current selection
+[2026.01.05-15.39.39:932][326]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001794 sec (time since issued).
+[2026.01.05-15.39.40:103][326]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001556 sec (time since issued).
+[2026.01.05-15.39.40:513][334]57807_vfx__MessageLog: System successfully compiled.
+[2026.01.05-15.41.05:172][350]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4248.909668
+[2026.01.05-15.41.05:323][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.05-15.41.05:323][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4249.043457, Update Interval: 332.500366
+[2026.01.05-15.41.08:551][553]LogEditorTransaction: Undo Move Nodes
+[2026.01.05-15.41.08:585][553]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001751 sec (time since issued).
+[2026.01.05-15.41.08:759][553]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001989 sec (time since issued).
+[2026.01.05-15.41.08:883][554]LogEditorTransaction: Undo Move Node
+[2026.01.05-15.41.08:916][554]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001702 sec (time since issued).
+[2026.01.05-15.41.09:092][554]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001799 sec (time since issued).
+[2026.01.05-15.41.09:103][554]LogEditorTransaction: Undo Move Node
+[2026.01.05-15.41.09:129][554]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001548 sec (time since issued).
+[2026.01.05-15.41.09:325][554]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001476 sec (time since issued).
+[2026.01.05-15.41.09:472][555]LogEditorTransaction: Undo Create Pin Link
+[2026.01.05-15.41.09:505][555]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001654 sec (time since issued).
+[2026.01.05-15.41.09:682][555]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001658 sec (time since issued).
+[2026.01.05-15.41.09:838][560]LogEditorTransaction: Undo Create Pin Link
+[2026.01.05-15.41.09:873][560]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001658 sec (time since issued).
+[2026.01.05-15.41.10:049][560]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001524 sec (time since issued).
+[2026.01.05-15.41.10:139][561]LogEditorTransaction: Undo Move Node
+[2026.01.05-15.41.10:173][561]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001630 sec (time since issued).
+[2026.01.05-15.41.10:367][561]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001543 sec (time since issued).
+[2026.01.05-15.41.10:607][569]57807_vfx__MessageLog: System successfully compiled.
+[2026.01.05-15.41.12:191][664]LogEditorTransaction: Undo Move Node
+[2026.01.05-15.41.12:224][664]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001675 sec (time since issued).
+[2026.01.05-15.41.12:400][664]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001504 sec (time since issued).
+[2026.01.05-15.41.12:639][672]57807_vfx__MessageLog: System successfully compiled.
+[2026.01.05-15.42.40:056][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.01.05-15.46.55:862][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.01.05-15.47.30:251][957]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4633.951660
+[2026.01.05-15.47.30:386][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.05-15.47.30:386][965]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4634.068359, Update Interval: 317.406525
+[2026.01.05-15.47.44:967][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.05-15.49.13:271][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.05-15.49.21:880][531]Cmd: TRANSACTION UNDO
+[2026.01.05-15.49.21:880][531]LogEditorTransaction: Undo Edit Decale Z
+[2026.01.05-15.49.21:901][531]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001714 sec (time since issued).
+[2026.01.05-15.49.22:095][531]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001619 sec (time since issued).
+[2026.01.05-15.49.22:476][539]57807_vfx__MessageLog: System successfully compiled.
+[2026.01.05-15.49.50:028][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.05-15.50.09:338][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.01.05-15.50.27:668][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.05-15.53.23:063][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4986.793457
+[2026.01.05-15.53.23:230][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.05-15.53.23:230][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4986.924316, Update Interval: 332.555298
+[2026.01.05-15.54.00:278][979]LogEditorTransaction: Undo Move Nodes
+[2026.01.05-15.54.00:306][979]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.002046 sec (time since issued).
+[2026.01.05-15.54.00:483][979]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001557 sec (time since issued).
+[2026.01.05-15.54.00:614][980]LogEditorTransaction: Undo Delete current selection
+[2026.01.05-15.54.00:649][980]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001679 sec (time since issued).
+[2026.01.05-15.54.00:824][980]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001723 sec (time since issued).
+[2026.01.05-15.54.01:039][985]LogEditorTransaction: Undo Delete current selection
+[2026.01.05-15.54.01:073][985]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001771 sec (time since issued).
+[2026.01.05-15.54.01:251][985]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001550 sec (time since issued).
+[2026.01.05-15.54.01:484][993]57807_vfx__MessageLog: System successfully compiled.
+[2026.01.05-15.54.30:230][685]LogEditorTransaction: Undo Delete current selection
+[2026.01.05-15.54.30:266][685]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001694 sec (time since issued).
+[2026.01.05-15.54.30:443][685]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001556 sec (time since issued).
+[2026.01.05-15.54.30:863][693]57807_vfx__MessageLog: System successfully compiled.
+[2026.01.05-15.54.45:542][566]LogEditorTransaction: Undo Move Node
+[2026.01.05-15.54.45:580][566]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001654 sec (time since issued).
+[2026.01.05-15.54.45:757][566]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001684 sec (time since issued).
+[2026.01.05-15.54.46:177][574]57807_vfx__MessageLog: System successfully compiled.
+[2026.01.05-15.55.05:556][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.05-15.55.06:414][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.05-15.55.06:476][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Vitrine] ([2] browsable assets)...
+[2026.01.05-15.55.06:476][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Vitrine]
+[2026.01.05-15.55.06:476][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vitrine" FILE="../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Content/BP_Vitrine.uasset" SILENT=true
+[2026.01.05-15.55.06:497][724]LogSavePackage: Moving output files for package: /Game/BP_Vitrine
+[2026.01.05-15.55.06:498][724]LogSavePackage: Moving '../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Saved/BP_Vitrine306E576D4016A1CDB92B08A4E5E0A09B.tmp' to '../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Content/BP_Vitrine.uasset'
+[2026.01.05-15.55.06:505][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.837 ms
+[2026.01.05-15.55.06:569][724]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.05-15.55.06:569][724]LogContentValidation: Enabled validators:
+[2026.01.05-15.55.06:569][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.05-15.55.06:569][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.05-15.55.06:569][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.05-15.55.06:569][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.05-15.55.06:569][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.05-15.55.06:569][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.05-15.55.06:569][724]AssetCheck: /Game/BP_Vitrine Validating asset
+[2026.01.05-15.55.06:585][724]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.05-15.55.21:958][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.05-15.55.54:726][454]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.05-15.55.54:731][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.05-15.55.54:731][454]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2026.01.05-15.55.54:734][454]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.01.05-15.55.54:757][455]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-15.55.54:772][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014945s)
+[2026.01.05-15.55.54:772][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR to /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR (0.014987s)
+[2026.01.05-15.55.54:793][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.01.05-15.55.54:798][455]LogChaosDD: Creating Chaos Debug Draw Scene for world TIIIIIIMEEEEERRRRR
+[2026.01.05-15.55.54:800][455]LogPlayLevel: PIE: World Init took: (0.001740s)
+[2026.01.05-15.55.54:800][455]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.01.05-15.55.54:800][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.05-15.55.54:800][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.05-15.55.54:800][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.05-15.55.54:800][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.05-15.55.54:800][455]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.05-15.55.54:800][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.05-15.55.54:800][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.05-15.55.54:800][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.05-15.55.54:800][455]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.05-15.55.54:800][455]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.05-15.55.54:800][455]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.05-15.55.54:801][455]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.05-15.55.54:818][455]LogAudioMixer: Display: Using Audio Hardware Device X2483_2480-DP (NVIDIA High Definition Audio)
+[2026.01.05-15.55.54:818][455]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.05-15.55.54:818][455]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.05-15.55.54:818][455]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.05-15.55.54:818][455]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.01.05-15.55.54:818][455]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.01.05-15.55.54:820][455]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.01.05-15.55.54:820][455]LogInit: FAudioDevice initialized with ID 13.
+[2026.01.05-15.55.54:820][455]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.01.05-15.55.54:820][455]LogAudio: Display: Audio Device (ID: 13) registered with world 'TIIIIIIMEEEEERRRRR'.
+[2026.01.05-15.55.54:820][455]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.01.05-15.55.54:823][455]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.05-15.55.54:829][455]LogWorld: Bringing World /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR up for play (max tick rate 60) at 2026.01.05-16.55.54
+[2026.01.05-15.55.54:830][455]LogWorld: Bringing up level for play took: 0.006723
+[2026.01.05-15.55.54:835][455]PIE: Server logged in
+[2026.01.05-15.55.54:837][455]PIE: Play in editor total start time 0,106 seconds.
+[2026.01.05-15.55.54:877][456]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.05-15.55.59:304][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-15.55.59:304][719]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-15.55.59:305][719]LogWorld: UWorld::CleanupWorld for TIIIIIIMEEEEERRRRR, bSessionEnded=true, bCleanupResources=true
+[2026.01.05-15.55.59:307][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-15.55.59:315][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.05-15.55.59:318][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-15.55.59:342][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.05-15.55.59:342][719]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.01.05-15.55.59:342][719]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.01.05-15.55.59:344][719]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.01.05-15.55.59:348][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-15.55.59:351][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.01.05-15.55.59:414][720]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.01.05-15.56.14:642][601]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.05-15.56.14:647][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.05-15.56.14:647][601]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2026.01.05-15.56.14:649][601]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.01.05-15.56.14:674][602]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-15.56.14:689][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014701s)
+[2026.01.05-15.56.14:689][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR to /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR (0.014751s)
+[2026.01.05-15.56.14:709][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.01.05-15.56.14:712][602]LogChaosDD: Creating Chaos Debug Draw Scene for world TIIIIIIMEEEEERRRRR
+[2026.01.05-15.56.14:713][602]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2026.01.05-15.56.14:713][602]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.01.05-15.56.14:713][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.05-15.56.14:713][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.05-15.56.14:713][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.05-15.56.14:713][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.05-15.56.14:713][602]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.05-15.56.14:713][602]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.05-15.56.14:713][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.05-15.56.14:713][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.05-15.56.14:713][602]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.05-15.56.14:713][602]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.05-15.56.14:713][602]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.05-15.56.14:715][602]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.05-15.56.14:729][602]LogAudioMixer: Display: Using Audio Hardware Device X2483_2480-DP (NVIDIA High Definition Audio)
+[2026.01.05-15.56.14:729][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.05-15.56.14:729][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.05-15.56.14:729][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.05-15.56.14:730][602]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.01.05-15.56.14:730][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.01.05-15.56.14:731][602]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.01.05-15.56.14:731][602]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.01.05-15.56.14:731][602]LogInit: FAudioDevice initialized with ID 14.
+[2026.01.05-15.56.14:731][602]LogAudio: Display: Audio Device (ID: 14) registered with world 'TIIIIIIMEEEEERRRRR'.
+[2026.01.05-15.56.14:731][602]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.01.05-15.56.14:734][602]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.05-15.56.14:741][602]LogWorld: Bringing World /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR up for play (max tick rate 60) at 2026.01.05-16.56.14
+[2026.01.05-15.56.14:742][602]LogWorld: Bringing up level for play took: 0.007120
+[2026.01.05-15.56.14:746][602]PIE: Server logged in
+[2026.01.05-15.56.14:748][602]PIE: Play in editor total start time 0,101 seconds.
+[2026.01.05-15.56.14:787][603]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.05-15.56.24:734][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-15.56.24:734][196]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-15.56.24:734][196]LogWorld: UWorld::CleanupWorld for TIIIIIIMEEEEERRRRR, bSessionEnded=true, bCleanupResources=true
+[2026.01.05-15.56.24:737][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-15.56.24:740][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.05-15.56.24:742][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-15.56.24:763][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-15.56.24:763][196]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.01.05-15.56.24:763][196]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.01.05-15.56.24:765][196]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.01.05-15.56.24:771][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.01.05-15.56.24:833][197]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.01.05-15.56.29:127][448]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.05-15.56.29:132][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.05-15.56.29:132][448]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2026.01.05-15.56.29:133][448]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.01.05-15.56.29:158][449]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-15.56.29:174][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015258s)
+[2026.01.05-15.56.29:174][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR to /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR (0.015317s)
+[2026.01.05-15.56.29:196][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.05-15.56.29:198][449]LogChaosDD: Creating Chaos Debug Draw Scene for world TIIIIIIMEEEEERRRRR
+[2026.01.05-15.56.29:199][449]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2026.01.05-15.56.29:200][449]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.01.05-15.56.29:200][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.05-15.56.29:200][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.05-15.56.29:200][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.05-15.56.29:200][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.05-15.56.29:200][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.05-15.56.29:200][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.05-15.56.29:200][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.05-15.56.29:200][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.05-15.56.29:200][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.05-15.56.29:200][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.05-15.56.29:200][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.05-15.56.29:201][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.05-15.56.29:215][449]LogAudioMixer: Display: Using Audio Hardware Device X2483_2480-DP (NVIDIA High Definition Audio)
+[2026.01.05-15.56.29:215][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.05-15.56.29:215][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.05-15.56.29:215][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.05-15.56.29:216][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.01.05-15.56.29:216][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.01.05-15.56.29:217][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.01.05-15.56.29:217][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.01.05-15.56.29:217][449]LogInit: FAudioDevice initialized with ID 15.
+[2026.01.05-15.56.29:217][449]LogAudio: Display: Audio Device (ID: 15) registered with world 'TIIIIIIMEEEEERRRRR'.
+[2026.01.05-15.56.29:218][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.01.05-15.56.29:220][449]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.05-15.56.29:227][449]LogWorld: Bringing World /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR up for play (max tick rate 60) at 2026.01.05-16.56.29
+[2026.01.05-15.56.29:227][449]LogWorld: Bringing up level for play took: 0.006850
+[2026.01.05-15.56.29:232][449]PIE: Server logged in
+[2026.01.05-15.56.29:234][449]PIE: Play in editor total start time 0,103 seconds.
+[2026.01.05-15.56.29:272][450]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.05-15.56.32:244][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-15.56.32:244][626]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-15.56.32:244][626]LogWorld: UWorld::CleanupWorld for TIIIIIIMEEEEERRRRR, bSessionEnded=true, bCleanupResources=true
+[2026.01.05-15.56.32:247][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-15.56.32:249][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.05-15.56.32:252][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-15.56.32:276][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-15.56.32:277][626]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.01.05-15.56.32:277][626]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.01.05-15.56.32:278][626]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.01.05-15.56.32:284][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.05-15.56.32:346][627]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.01.05-15.57.23:492][651]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.05-15.57.23:498][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.05-15.57.23:524][651]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2026.01.05-15.57.23:527][651]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.01.05-15.57.23:549][652]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-15.57.23:565][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015416s)
+[2026.01.05-15.57.23:565][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR to /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR (0.015549s)
+[2026.01.05-15.57.23:588][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.01.05-15.57.23:593][652]LogChaosDD: Creating Chaos Debug Draw Scene for world TIIIIIIMEEEEERRRRR
+[2026.01.05-15.57.23:594][652]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2026.01.05-15.57.23:595][652]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.01.05-15.57.23:595][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.05-15.57.23:595][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.05-15.57.23:595][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.05-15.57.23:595][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.05-15.57.23:595][652]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.05-15.57.23:595][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.05-15.57.23:595][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.05-15.57.23:595][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.05-15.57.23:595][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.05-15.57.23:595][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.05-15.57.23:595][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.05-15.57.23:596][652]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.05-15.57.23:610][652]LogAudioMixer: Display: Using Audio Hardware Device X2483_2480-DP (NVIDIA High Definition Audio)
+[2026.01.05-15.57.23:610][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.05-15.57.23:610][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.05-15.57.23:610][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.05-15.57.23:611][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.01.05-15.57.23:611][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.01.05-15.57.23:612][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.01.05-15.57.23:612][652]LogInit: FAudioDevice initialized with ID 16.
+[2026.01.05-15.57.23:612][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.01.05-15.57.23:612][652]LogAudio: Display: Audio Device (ID: 16) registered with world 'TIIIIIIMEEEEERRRRR'.
+[2026.01.05-15.57.23:612][652]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.01.05-15.57.23:616][652]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.05-15.57.23:622][652]LogWorld: Bringing World /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR up for play (max tick rate 60) at 2026.01.05-16.57.23
+[2026.01.05-15.57.23:623][652]LogWorld: Bringing up level for play took: 0.006745
+[2026.01.05-15.57.23:627][652]PIE: Server logged in
+[2026.01.05-15.57.23:629][652]PIE: Play in editor total start time 0,132 seconds.
+[2026.01.05-15.57.23:668][653]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.05-15.57.35:364][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-15.57.35:364][352]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-15.57.35:365][352]LogWorld: UWorld::CleanupWorld for TIIIIIIMEEEEERRRRR, bSessionEnded=true, bCleanupResources=true
+[2026.01.05-15.57.35:368][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-15.57.35:371][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.05-15.57.35:373][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-15.57.35:395][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.05-15.57.35:395][352]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.01.05-15.57.35:395][352]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.01.05-15.57.35:397][352]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.01.05-15.57.35:401][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-15.57.35:403][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.01.05-15.57.35:449][353]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.01.05-15.57.47:779][ 69]Cmd: DELETE
+[2026.01.05-15.57.47:779][ 69]Cmd: ACTOR DELETE
+[2026.01.05-15.57.47:786][ 69]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-15.57.47:787][ 69]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-15.57.47:787][ 69]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-15.57.47:788][ 69]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-15.57.47:811][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.01.05-15.57.47:814][ 69]LogEditorActor: Deleted 4 Actors (0.035 secs)
+[2026.01.05-15.57.48:687][117]Cmd: DELETE
+[2026.01.05-15.57.48:687][117]Cmd: ACTOR DELETE
+[2026.01.05-15.57.48:690][117]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-15.57.48:713][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.05-15.57.48:717][117]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.01.05-15.57.49:210][143]Cmd: DELETE
+[2026.01.05-15.57.49:210][143]Cmd: ACTOR DELETE
+[2026.01.05-15.57.49:215][143]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-15.57.49:239][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.05-15.57.49:242][143]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.01.05-15.57.51:645][286]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.05-15.57.51:650][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.05-15.57.51:650][286]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2026.01.05-15.57.51:652][286]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.01.05-15.57.51:672][287]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-15.57.51:687][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014811s)
+[2026.01.05-15.57.51:687][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR to /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR (0.014855s)
+[2026.01.05-15.57.51:707][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.01.05-15.57.51:710][287]LogChaosDD: Creating Chaos Debug Draw Scene for world TIIIIIIMEEEEERRRRR
+[2026.01.05-15.57.51:711][287]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2026.01.05-15.57.51:712][287]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.01.05-15.57.51:712][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.05-15.57.51:712][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.05-15.57.51:712][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.05-15.57.51:712][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.05-15.57.51:712][287]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.05-15.57.51:712][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.05-15.57.51:712][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.05-15.57.51:712][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.05-15.57.51:712][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.05-15.57.51:712][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.05-15.57.51:712][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.05-15.57.51:713][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.05-15.57.51:726][287]LogAudioMixer: Display: Using Audio Hardware Device X2483_2480-DP (NVIDIA High Definition Audio)
+[2026.01.05-15.57.51:726][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.05-15.57.51:726][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.05-15.57.51:726][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.05-15.57.51:727][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.01.05-15.57.51:727][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.01.05-15.57.51:729][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.01.05-15.57.51:729][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.01.05-15.57.51:729][287]LogInit: FAudioDevice initialized with ID 17.
+[2026.01.05-15.57.51:729][287]LogAudio: Display: Audio Device (ID: 17) registered with world 'TIIIIIIMEEEEERRRRR'.
+[2026.01.05-15.57.51:729][287]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.01.05-15.57.51:733][287]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.05-15.57.51:740][287]LogWorld: Bringing World /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR up for play (max tick rate 60) at 2026.01.05-16.57.51
+[2026.01.05-15.57.51:740][287]LogWorld: Bringing up level for play took: 0.006977
+[2026.01.05-15.57.51:744][287]PIE: Server logged in
+[2026.01.05-15.57.51:746][287]PIE: Play in editor total start time 0,096 seconds.
+[2026.01.05-15.57.51:786][288]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.05-15.58.05:084][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-15.58.05:084][ 83]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-15.58.05:084][ 83]LogWorld: UWorld::CleanupWorld for TIIIIIIMEEEEERRRRR, bSessionEnded=true, bCleanupResources=true
+[2026.01.05-15.58.05:087][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-15.58.05:089][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.05-15.58.05:093][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-15.58.05:116][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-15.58.05:116][ 83]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.01.05-15.58.05:117][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.01.05-15.58.05:118][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.01.05-15.58.05:126][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.05-15.58.05:156][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.01.05-15.59.50:684][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5374.407715
+[2026.01.05-15.59.50:834][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.05-15.59.50:834][936]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5374.540527, Update Interval: 352.289185
+[2026.01.05-16.00.24:276][829]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.05-16.00.24:281][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.05-16.00.24:281][829]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2026.01.05-16.00.24:283][829]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.01.05-16.00.24:309][830]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-16.00.24:326][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016928s)
+[2026.01.05-16.00.24:326][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR to /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR (0.016970s)
+[2026.01.05-16.00.24:351][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.05-16.00.24:355][830]LogChaosDD: Creating Chaos Debug Draw Scene for world TIIIIIIMEEEEERRRRR
+[2026.01.05-16.00.24:356][830]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2026.01.05-16.00.24:357][830]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.01.05-16.00.24:357][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.05-16.00.24:357][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.05-16.00.24:357][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.05-16.00.24:357][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.05-16.00.24:357][830]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.05-16.00.24:357][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.05-16.00.24:357][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.05-16.00.24:357][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.05-16.00.24:357][830]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.05-16.00.24:357][830]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.05-16.00.24:357][830]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.05-16.00.24:359][830]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.05-16.00.24:374][830]LogAudioMixer: Display: Using Audio Hardware Device X2483_2480-DP (NVIDIA High Definition Audio)
+[2026.01.05-16.00.24:374][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.05-16.00.24:374][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.05-16.00.24:374][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.05-16.00.24:375][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.01.05-16.00.24:375][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.01.05-16.00.24:376][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.01.05-16.00.24:376][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.01.05-16.00.24:376][830]LogInit: FAudioDevice initialized with ID 18.
+[2026.01.05-16.00.24:376][830]LogAudio: Display: Audio Device (ID: 18) registered with world 'TIIIIIIMEEEEERRRRR'.
+[2026.01.05-16.00.24:376][830]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.01.05-16.00.24:379][830]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.05-16.00.24:386][830]LogWorld: Bringing World /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR up for play (max tick rate 60) at 2026.01.05-17.00.24
+[2026.01.05-16.00.24:387][830]LogWorld: Bringing up level for play took: 0.007655
+[2026.01.05-16.00.24:392][830]PIE: Server logged in
+[2026.01.05-16.00.24:394][830]PIE: Play in editor total start time 0,113 seconds.
+[2026.01.05-16.00.24:431][831]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.05-16.00.28:264][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-16.00.28:264][ 58]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TIIIIIIMEEEEERRRRR
+[2026.01.05-16.00.28:264][ 58]LogWorld: UWorld::CleanupWorld for TIIIIIIMEEEEERRRRR, bSessionEnded=true, bCleanupResources=true
+[2026.01.05-16.00.28:267][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-16.00.28:270][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.05-16.00.28:272][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-16.00.28:294][ 58]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.05-16.00.28:294][ 58]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.01.05-16.00.28:294][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.01.05-16.00.28:296][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.01.05-16.00.28:300][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.05-16.00.28:303][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.05-16.00.28:365][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.01.05-16.06.17:950][912]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5761.661133
+[2026.01.05-16.06.18:102][920]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.05-16.06.18:102][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5761.794434, Update Interval: 339.680176
+[2026.01.05-16.07.27:492][ 34]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.01.05-16.07.27:492][ 34]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.01.05-16.07.27:493][ 34]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR:PersistentLevel.PostProcessVolume_0
+[2026.01.05-16.07.27:494][ 34]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/TIIIIIIMEEEEERRRRR.TIIIIIIMEEEEERRRRR:PersistentLevel.PostProcessVolume_0
+[2026.01.05-16.07.27:518][ 34]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.05-16.08.31:253][792]LogSlate: External Image Picker: DecompressImage failed
+[2026.01.05-16.09.20:575][682]Cmd: TRANSACTION UNDO
+[2026.01.05-16.09.20:575][682]LogEditorTransaction: Undo Edit Local Exposure Highlight Contrast
+[2026.01.05-16.09.20:595][682]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.002053 sec (time since issued).
+[2026.01.05-16.09.20:799][682]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001504 sec (time since issued).
+[2026.01.05-16.09.21:197][690]57807_vfx__MessageLog: System successfully compiled.
+[2026.01.05-16.11.44:794][197]LogSlate: Window 'Project Settings' being destroyed
+[2026.01.05-16.11.44:799][197]LogSlate: Window 'Project Settings' being destroyed
+[2026.01.05-16.12.02:511][244]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/M_Sky_Inst.M_Sky_Inst
+[2026.01.05-16.12.02:512][244]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.01.05-16.12.54:001][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6157.648926
+[2026.01.05-16.12.54:136][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.05-16.12.54:136][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6157.766602, Update Interval: 323.353973
+[2026.01.05-16.15.20:702][858]Cmd: DELETE
+[2026.01.05-16.15.20:702][858]Cmd: ACTOR DELETE
+[2026.01.05-16.15.20:706][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:707][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:707][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:708][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:708][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:709][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:709][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:709][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:709][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:711][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:711][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:712][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:712][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:713][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:713][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:714][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:714][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:715][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:715][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:716][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:716][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:717][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:718][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:718][858]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.15.20:768][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.05-16.15.20:772][858]LogEditorActor: Deleted 24 Actors (0.070 secs)
+[2026.01.05-16.16.20:000][225]Cmd: DELETE
+[2026.01.05-16.16.20:000][225]Cmd: ACTOR DELETE
+[2026.01.05-16.16.20:003][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.20:004][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.20:004][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.20:005][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.20:005][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.20:006][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.20:028][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.05-16.16.20:033][225]LogEditorActor: Deleted 6 Actors (0.033 secs)
+[2026.01.05-16.16.27:233][647]Cmd: DELETE
+[2026.01.05-16.16.27:233][647]Cmd: ACTOR DELETE
+[2026.01.05-16.16.27:237][647]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.27:259][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.05-16.16.27:264][647]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.01.05-16.16.31:968][919]Cmd: DELETE
+[2026.01.05-16.16.31:968][919]Cmd: ACTOR DELETE
+[2026.01.05-16.16.31:972][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.31:989][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.05-16.16.31:994][919]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.01.05-16.16.35:567][124]Cmd: DELETE
+[2026.01.05-16.16.35:567][124]Cmd: ACTOR DELETE
+[2026.01.05-16.16.35:571][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.35:590][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.01.05-16.16.35:593][124]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.01.05-16.16.43:972][595]Cmd: DELETE
+[2026.01.05-16.16.43:973][595]Cmd: ACTOR DELETE
+[2026.01.05-16.16.43:976][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.43:999][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.01.05-16.16.44:003][595]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.01.05-16.16.46:280][725]Cmd: DELETE
+[2026.01.05-16.16.46:280][725]Cmd: ACTOR DELETE
+[2026.01.05-16.16.46:283][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.46:305][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.01.05-16.16.46:309][725]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.01.05-16.16.50:536][969]Cmd: DELETE
+[2026.01.05-16.16.50:536][969]Cmd: ACTOR DELETE
+[2026.01.05-16.16.50:539][969]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.16.50:562][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.01.05-16.16.50:566][969]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.01.05-16.19.03:735][915]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6527.342773
+[2026.01.05-16.19.03:868][923]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.05-16.19.03:868][923]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6527.458984, Update Interval: 305.696594
+[2026.01.05-16.20.20:284][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.05-16.20.20:291][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.05-16.20.20:372][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.01.05-16.20.20:418][506]LogSavePackage: Moving output files for package: /Game/TIIIIIIMEEEEERRRRR
+[2026.01.05-16.20.20:418][506]LogSavePackage: Moving '../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Saved/TIIIIIIMEEEEERRRRR16B469ED40E8B3CD6AE256AC7DB51FB4.tmp' to '../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Content/TIIIIIIMEEEEERRRRR.umap'
+[2026.01.05-16.20.20:426][506]LogFileHelpers: Saving map 'TIIIIIIMEEEEERRRRR' took 0.097
+[2026.01.05-16.20.20:426][506]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/M_Sky_Inst] ([1] browsable assets)...
+[2026.01.05-16.20.20:462][506]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/M_Sky_Inst.M_Sky_Inst]
+[2026.01.05-16.20.20:462][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/M_Sky_Inst]
+[2026.01.05-16.20.20:462][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Sky_Inst" FILE="../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Content/M_Sky_Inst.uasset" SILENT=true
+[2026.01.05-16.20.20:484][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.01.05-16.20.20:617][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.01.05-16.20.20:628][506]LogSavePackage: Moving output files for package: /Game/M_Sky_Inst
+[2026.01.05-16.20.20:629][506]LogSavePackage: Moving '../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Saved/M_Sky_Inst06F1F5A842C0A306F50DDBA3FAE3A459.tmp' to '../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Content/M_Sky_Inst.uasset'
+[2026.01.05-16.20.20:636][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/vfx/vfx_] ([1] browsable assets)...
+[2026.01.05-16.20.20:636][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/vfx/vfx_]
+[2026.01.05-16.20.20:636][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vfx/vfx_" FILE="../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Content/vfx/vfx_.uasset" SILENT=true
+[2026.01.05-16.20.20:691][506]LogSavePackage: Moving output files for package: /Game/vfx/vfx_
+[2026.01.05-16.20.20:692][506]LogSavePackage: Moving '../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Saved/vfx_03B25D5940DB9A19D74017BF8744EC40.tmp' to '../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Content/vfx/vfx_.uasset'
+[2026.01.05-16.20.20:693][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Vitrine] ([2] browsable assets)...
+[2026.01.05-16.20.20:693][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Vitrine]
+[2026.01.05-16.20.20:693][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Vitrine" FILE="../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Content/BP_Vitrine.uasset" SILENT=true
+[2026.01.05-16.20.20:710][506]LogSavePackage: Moving output files for package: /Game/BP_Vitrine
+[2026.01.05-16.20.20:710][506]LogSavePackage: Moving '../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Saved/BP_VitrineA65F924B44D1BECD573405A07D4599A1.tmp' to '../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Content/BP_Vitrine.uasset'
+[2026.01.05-16.20.20:717][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 425.951 ms (total: 517.788 ms)
+[2026.01.05-16.20.20:760][506]LogContentValidation: Display: Starting to validate 4 assets
+[2026.01.05-16.20.20:760][506]LogContentValidation: Enabled validators:
+[2026.01.05-16.20.20:760][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.05-16.20.20:760][506]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.05-16.20.20:760][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.05-16.20.20:760][506]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.05-16.20.20:760][506]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.05-16.20.20:760][506]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.05-16.20.20:761][506]AssetCheck: /Game/TIIIIIIMEEEEERRRRR Validating asset
+[2026.01.05-16.20.20:761][506]AssetCheck: /Game/M_Sky_Inst Validating asset
+[2026.01.05-16.20.20:761][506]AssetCheck: /Game/vfx/vfx_ Validating asset
+[2026.01.05-16.20.20:761][506]AssetCheck: /Game/BP_Vitrine Validating asset
+[2026.01.05-16.20.20:779][506]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Saved/SourceControl/UncontrolledChangelists.json
