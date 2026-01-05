@@ -3580,3 +3580,120 @@ Sampler Limit: 32
 [2026.01.05-16.20.20:761][506]AssetCheck: /Game/vfx/vfx_ Validating asset
 [2026.01.05-16.20.20:761][506]AssetCheck: /Game/BP_Vitrine Validating asset
 [2026.01.05-16.20.20:779][506]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/h_saintremy/Documents/GitHub/Timer_Exo/Timer_ex/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.05-16.23.13:257][927]Cmd: DELETE
+[2026.01.05-16.23.13:257][927]Cmd: ACTOR DELETE
+[2026.01.05-16.23.13:263][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.23.13:289][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.01.05-16.23.13:292][927]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.01.05-16.23.13:857][957]Cmd: DELETE
+[2026.01.05-16.23.13:857][957]Cmd: ACTOR DELETE
+[2026.01.05-16.23.13:861][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.23.13:881][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.05-16.23.13:884][957]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.01.05-16.23.14:482][989]Cmd: DELETE
+[2026.01.05-16.23.14:482][989]Cmd: ACTOR DELETE
+[2026.01.05-16.23.14:486][989]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.23.14:508][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.05-16.23.14:512][989]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.01.05-16.23.14:881][  7]Cmd: DELETE
+[2026.01.05-16.23.14:881][  7]Cmd: ACTOR DELETE
+[2026.01.05-16.23.14:884][  7]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.05-16.23.14:907][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.01.05-16.23.14:911][  7]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.01.05-16.24.08:417][195]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.01.05-16.24.21:675][195]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.05-16.24.22:034][195]LogSlate: Window 'Add Emitter to your System' being destroyed
+[2026.01.05-16.24.22:042][195]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.01.05-16.24.22:042][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.05-16.24.22:088][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.01.05-16.24.22:133][195]LogAutomationController: Ignoring very large delta of 13.73 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: request failed, libcurl error: 26 (Failed to open/read local data from file/application)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 0 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 1 (upload completely sent off: 444 bytes)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 2 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 4 (shutting down connection #1)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 5 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 6 (necessary data rewind was not possible)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 7 (rewind of client reader 'cr-in' failed: 65)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB3CEE9E9-4894-6371-2BB3-C2A41785BD34%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=78e0f5d349445428bc5daf9073b7d298%7C98634b7d8a7d48cfb2b6759cba77918a%7C15e8e654-dffa-4225-84e1-0d4c2d5d809c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 9 (necessary data rewind was not possible)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 11 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 12 (IPv6: (none))
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 13 (IPv4: 100.51.79.168, 174.129.192.181, 34.226.5.60, 100.52.33.132, 52.23.78.189, 100.26.116.136, 50.17.173.211, 52.205.109.81)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 14 (  Trying 100.51.79.168:443...)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 15 (SSL reusing session)
+[2026.01.05-16.24.22:367][204]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 17 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 23 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 24 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 25 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / [blank] / UNDEF)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 26 (ALPN: server accepted http/1.1)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 27 (Server certificate:)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 28 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 29 ( start date: Jan  3 00:00:00 2026 GMT)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 30 ( expire date: Feb  1 23:59:59 2027 GMT)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 31 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 32 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M04)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 33 ( SSL certificate verify ok.)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 34 (  Certificate level 0: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 35 (  Certificate level 1: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 36 (  Certificate level 2: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 37 (Connected to datarouter.ol.epicgames.com (100.51.79.168) port 443)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 38 (using HTTP/1.x)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 39 (client read function EOF fail, only 0/444 of needed bytes read)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900: libcurl info message cache 40 (closing connection #2)
+[2026.01.05-16.24.22:367][205]LogHttp: Warning: 0000027CD7206900 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB3CEE9E9-4894-6371-2BB3-C2A41785BD34%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=78e0f5d349445428bc5daf9073b7d298%7C98634b7d8a7d48cfb2b6759cba77918a%7C15e8e654-dffa-4225-84e1-0d4c2d5d809c&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 0.22s
+[2026.01.05-16.24.23:046][244]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 1.318653 sec (time since issued).
+[2026.01.05-16.24.23:069][245]LogNiagara: Compiling System NiagaraSystem /Game/vfx/vfx_.vfx_ took 0.001956 sec (time since issued).
+[2026.01.05-16.24.23:303][256]57807_vfx__MessageLog: System successfully compiled.
+[2026.01.05-16.25.15:733][163]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6899.330078
+[2026.01.05-16.25.15:883][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.05-16.25.15:883][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6899.462891, Update Interval: 313.299347
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: ================================================
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Total job queries 634, among them cache hits 109 (17.19%), DDC hits 435 (68.61%), Duplicates 72 (11.36%)
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Tracking 453 distinct input hashes that result in 339 distinct outputs (74.83%)
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: RAM used: 4,20 MiB of 3,20 GiB budget. Usage: 0.13%
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Shaders Compiled: 18
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Average time worker was idle: 3415.85 s
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.07 s
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Job execution time: average 1.37 s, max 2.42 s
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Job life time (pending + execution): average 1.40 s, max 2.43
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Shader code size: total 305,531 KiB, numShaders 18, average 16,974 KiB, min 3,498 KiB, max 39,089 KiB
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.83 s
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Jobs were issued in 13 batches (10 local, 3 distributed), average 1.38 jobs/batch (1.00 jobs/local batch. 2.67 jobs/distributed batch)
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Average processing rate: 3.09 jobs/sec
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Total thread time: 6,819 s
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Total thread preprocess time: 7,934 s
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Percentage time preprocessing: 116.36%
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Effective parallelization: 1.17 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.90 sec, max 0.91 sec, min 0.88 sec)
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.57 sec, max 0.76 sec, min 0.39 sec)
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.55 sec, max 0.74 sec, min 0.42 sec)
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    8 times, average 0.22 sec, max 0.28 sec, min 0.07 sec)
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 26.37% of total time (compiled    2 times, average 0.90 sec, max 0.91 sec, min 0.88 sec)
+[2026.01.05-16.27.22:059][737]LogShaderCompilers: Display:                                               FNiagaraShader - 25.77% of total time (compiled    8 times, average 0.22 sec, max 0.28 sec, min 0.07 sec)
+[2026.01.05-16.27.22:060][737]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.15% of total time (compiled    3 times, average 0.55 sec, max 0.74 sec, min 0.42 sec)
+[2026.01.05-16.27.22:060][737]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 16.76% of total time (compiled    2 times, average 0.57 sec, max 0.76 sec, min 0.39 sec)
+[2026.01.05-16.27.22:060][737]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.63% of total time (compiled    2 times, average 0.16 sec, max 0.17 sec, min 0.15 sec)
+[2026.01.05-16.27.22:060][737]LogShaderCompilers: Display: === Material stats ===
+[2026.01.05-16.27.22:060][737]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.05-16.27.22:060][737]LogShaderCompilers: Display: Materials Translated:    154
+[2026.01.05-16.27.22:060][737]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.01.05-16.27.22:060][737]LogShaderCompilers: Display: Material Translation Only: 0.03 s (28%)
+[2026.01.05-16.27.22:060][737]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.05-16.27.22:060][737]LogShaderCompilers: Display: Material Cache Hits: 14 (9%)
+[2026.01.05-16.27.22:060][737]LogShaderCompilers: Display: ================================================
