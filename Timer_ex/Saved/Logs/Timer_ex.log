@@ -2090,3 +2090,463 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.19-20.46.54:301][698]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 351.032593
 [2026.01.19-20.46.55:301][701]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.19-20.46.55:301][701]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 351.699463, Update Interval: 320.601837
+[2026.01.19-20.52.19:684][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 676.415833
+[2026.01.19-20.52.20:685][677]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-20.52.20:685][677]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 677.082825, Update Interval: 339.429291
+[2026.01.19-20.58.04:410][708]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1021.143311
+[2026.01.19-20.58.05:411][711]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-20.58.05:411][711]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1021.810669, Update Interval: 318.770721
+[2026.01.19-21.00.54:069][770]LogSlate: Took 0.009875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.01.19-21.01.26:418][450]LogContentBrowser: Attempting asset rename: LOL -> DayNightCycle_Level
+[2026.01.19-21.01.26:418][450]LogStreaming: Display: FlushAsyncLoading(532): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-21.01.26:452][450]LogChaosDD: Creating Chaos Debug Draw Scene for world LOL
+[2026.01.19-21.01.26:453][450]LogWorldPartition: ULevel::OnLevelLoaded(LOL)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.01.19-21.01.26:453][450]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.19-21.01.26:453][450]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/LOL.LOL, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.19-21.01.26:454][450]LogWorldPartition: Display: WorldPartition initialize took 1.319 ms (total: 259.041 ms)
+[2026.01.19-21.01.40:438][450]LogSlate: Window 'Message' being destroyed
+[2026.01.19-21.01.40:444][450]Message dialog closed, result: Cancel, title: Message, text: Le code source, la configuration INI et les fichiers texte pourraient nécessiter la fonctionnalité Chercher/Remplacer pour :
+
+
+LOL
+
+Autrement, les ressources pourraient être absentes des versions préparées. Continuer à renommer ?
+[2026.01.19-21.01.44:729][876]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.19-21.01.44:737][876]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.19-21.01.44:749][877]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.19-21.01.58:800][545]LogContentBrowser: Attempting asset rename: NewFolder -> DayNightCycleBP_Level
+[2026.01.19-21.01.58:801][545]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.19-21.02.05:389][ 79]LogSlate: Window 'Message' being destroyed
+[2026.01.19-21.02.05:393][ 79]Message dialog closed, result: Ok, title: Message, text: Le code source, la configuration INI et les fichiers texte pourraient nécessiter la fonctionnalité Chercher/Remplacer pour :
+
+
+LOL
+
+Autrement, les ressources pourraient être absentes des versions préparées. Continuer à renommer ?
+[2026.01.19-21.02.05:442][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.19-21.02.05:947][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.01.19-21.02.05:961][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.01.19-21.02.05:974][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.01.19-21.02.05:998][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.01.19-21.02.06:010][ 79]LogSavePackage: Moving output files for package: /Game/FirstPerson/DayNightCycleBP_Level/LOL
+[2026.01.19-21.02.06:010][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/LOLF13A1B594D8561E8997AD3B3FFA1B8A9.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/FirstPerson/DayNightCycleBP_Level/LOL.umap'
+[2026.01.19-21.02.06:018][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.19-21.02.06:025][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/0/N5/QJT3W0RFVHOXRNKVA017CU
+[2026.01.19-21.02.06:025][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/QJT3W0RFVHOXRNKVA017CU2398AA3A453058F86E8BDE89D7B3C505.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/0/N5/QJT3W0RFVHOXRNKVA017CU.uasset'
+[2026.01.19-21.02.06:031][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/DayNightCycleBP_Level/LOL/D/5W/301G540HR83VV10WXFPDYM
+[2026.01.19-21.02.06:031][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/301G540HR83VV10WXFPDYM2E2DCF324354A034183EB991B43B6302.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalObjects__/FirstPerson/DayNightCycleBP_Level/LOL/D/5W/301G540HR83VV10WXFPDYM.uasset'
+[2026.01.19-21.02.06:037][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/DayNightCycleBP_Level/LOL/7/ZD/3ZB4FOULOR2800E6OC4UVT
+[2026.01.19-21.02.06:037][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/3ZB4FOULOR2800E6OC4UVTC41486A145A02199CEF7FBA611F55CD1.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalObjects__/FirstPerson/DayNightCycleBP_Level/LOL/7/ZD/3ZB4FOULOR2800E6OC4UVT.uasset'
+[2026.01.19-21.02.06:044][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/8/ZU/HC4HJ7D0Y5RJXK72V3SZKM
+[2026.01.19-21.02.06:044][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/HC4HJ7D0Y5RJXK72V3SZKME9FBF115446009AABD63AAAF57F95526.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/8/ZU/HC4HJ7D0Y5RJXK72V3SZKM.uasset'
+[2026.01.19-21.02.06:051][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/A/B6/7JQMOBHAB6W9EXEN16HJ8T
+[2026.01.19-21.02.06:051][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/7JQMOBHAB6W9EXEN16HJ8T4DD0F08346EF1AC4824C00A390FFAE13.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/A/B6/7JQMOBHAB6W9EXEN16HJ8T.uasset'
+[2026.01.19-21.02.06:058][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/C/WP/8GWH247ZJH55S4IKOWI3YA
+[2026.01.19-21.02.06:058][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/8GWH247ZJH55S4IKOWI3YA2A88C8EB49ACE3C8E8047CBEADD45292.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/C/WP/8GWH247ZJH55S4IKOWI3YA.uasset'
+[2026.01.19-21.02.06:064][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/A/U0/UE9NW3809WPN1OGA6VQ9QV
+[2026.01.19-21.02.06:064][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/UE9NW3809WPN1OGA6VQ9QV613B6B14465F7BA323DA8F99330F03F1.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/A/U0/UE9NW3809WPN1OGA6VQ9QV.uasset'
+[2026.01.19-21.02.06:071][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/VV/EA7D84G4B888672J9F9I4C
+[2026.01.19-21.02.06:071][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/EA7D84G4B888672J9F9I4C0452EAE14F49D41F314970B34D5634A4.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/VV/EA7D84G4B888672J9F9I4C.uasset'
+[2026.01.19-21.02.06:078][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/LO/HBXH7MCJ9XUYKGH5I2N342
+[2026.01.19-21.02.06:078][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/HBXH7MCJ9XUYKGH5I2N3426037ACB74E7D22EC90FABA898E5D1A6A.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/LO/HBXH7MCJ9XUYKGH5I2N342.uasset'
+[2026.01.19-21.02.06:084][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/3/RX/BN83UGVTCPAHBE91UAQ7Q9
+[2026.01.19-21.02.06:084][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/BN83UGVTCPAHBE91UAQ7Q97434092846AC3ECCFABE29AC953464EC.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/3/RX/BN83UGVTCPAHBE91UAQ7Q9.uasset'
+[2026.01.19-21.02.06:091][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/C/BZ/UK4N3ACQ3RW4449JC7NTRH
+[2026.01.19-21.02.06:091][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/UK4N3ACQ3RW4449JC7NTRHF2BEFC2F476D984DFCC82395C89C59D6.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/C/BZ/UK4N3ACQ3RW4449JC7NTRH.uasset'
+[2026.01.19-21.02.06:098][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/B/Q9/6JYKEV0CINVV2LLHKMH8HZ
+[2026.01.19-21.02.06:098][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/6JYKEV0CINVV2LLHKMH8HZ261F1FBC450C72D56BB589B2B28FECBB.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/B/Q9/6JYKEV0CINVV2LLHKMH8HZ.uasset'
+[2026.01.19-21.02.06:104][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/UH/GA834G9TRMGJ2IQBYV5GQG
+[2026.01.19-21.02.06:104][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/GA834G9TRMGJ2IQBYV5GQGD9AFB3FC41438D1B5A6BA0AFA20F3AA6.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/UH/GA834G9TRMGJ2IQBYV5GQG.uasset'
+[2026.01.19-21.02.06:111][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/2/WQ/8C75ZW7U3GI2G3N4E34FRP
+[2026.01.19-21.02.06:111][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/8C75ZW7U3GI2G3N4E34FRP79FA784A4E71BC9301B61FA7AF3900C3.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/2/WQ/8C75ZW7U3GI2G3N4E34FRP.uasset'
+[2026.01.19-21.02.06:117][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/A/BV/ISAWI48WOE2X49415CRTEO
+[2026.01.19-21.02.06:117][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/ISAWI48WOE2X49415CRTEO768CFE3149C311B34EB34694759EBB3D.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/A/BV/ISAWI48WOE2X49415CRTEO.uasset'
+[2026.01.19-21.02.06:124][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/4/XK/6BC8S1JAFP4CP5DA6EVG9Q
+[2026.01.19-21.02.06:124][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/6BC8S1JAFP4CP5DA6EVG9Q5437817D4563ABBBDF6DFDB0758FA1D2.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/4/XK/6BC8S1JAFP4CP5DA6EVG9Q.uasset'
+[2026.01.19-21.02.06:130][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/5/IU/FYSCY4PUV6AV5K1R579F17
+[2026.01.19-21.02.06:130][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/FYSCY4PUV6AV5K1R579F178FB337E645FF03DC45DDAE96C108D6C9.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/5/IU/FYSCY4PUV6AV5K1R579F17.uasset'
+[2026.01.19-21.02.06:137][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/LO/JFMDX4LDDTWDSDFPSLN3GG
+[2026.01.19-21.02.06:137][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/JFMDX4LDDTWDSDFPSLN3GGB88351E7407C5DBE955726A53392B92E.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/LO/JFMDX4LDDTWDSDFPSLN3GG.uasset'
+[2026.01.19-21.02.06:144][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/S9/CJJ8DQKH56NP7TXWIHSA16
+[2026.01.19-21.02.06:144][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/CJJ8DQKH56NP7TXWIHSA16E79B17B648644D83188979A891CDC71F.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/S9/CJJ8DQKH56NP7TXWIHSA16.uasset'
+[2026.01.19-21.02.06:150][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/3/R9/FCTJQIT4YBHLUAAE7ZHTP9
+[2026.01.19-21.02.06:150][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/FCTJQIT4YBHLUAAE7ZHTP9C821E8244055E3D6DD2FCA92BB02CC23.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/3/R9/FCTJQIT4YBHLUAAE7ZHTP9.uasset'
+[2026.01.19-21.02.06:156][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/AN/B5OK22ZSO5PT1UBSLCZIR4
+[2026.01.19-21.02.06:156][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/B5OK22ZSO5PT1UBSLCZIR4B2693EFA44A6B68620D3228D47808398.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/AN/B5OK22ZSO5PT1UBSLCZIR4.uasset'
+[2026.01.19-21.02.06:163][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/3/HZ/8962YFHANON1NA2NZ427ZK
+[2026.01.19-21.02.06:163][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/8962YFHANON1NA2NZ427ZK19207773418729FA29D14BBB5427CCD4.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/3/HZ/8962YFHANON1NA2NZ427ZK.uasset'
+[2026.01.19-21.02.06:170][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/EY/4ORR3ZM2GSEC08VBORSW50
+[2026.01.19-21.02.06:170][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/4ORR3ZM2GSEC08VBORSW50FF8B5B864453402BEB08A198A7688A50.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/EY/4ORR3ZM2GSEC08VBORSW50.uasset'
+[2026.01.19-21.02.06:176][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/7G/3VV4DGC2DN7FTF4IS206V7
+[2026.01.19-21.02.06:176][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/3VV4DGC2DN7FTF4IS206V75968877E4ED8B34DA361318CBCEC8237.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/7G/3VV4DGC2DN7FTF4IS206V7.uasset'
+[2026.01.19-21.02.06:183][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/C/TC/LPNUZ7TR2ZYCLDH6J2MJPR
+[2026.01.19-21.02.06:183][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/LPNUZ7TR2ZYCLDH6J2MJPR71F0A5A14F07BE1B015235B496B492C3.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/C/TC/LPNUZ7TR2ZYCLDH6J2MJPR.uasset'
+[2026.01.19-21.02.06:190][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/5/0W/NRYQ2WN1WQD5JF6W84OQFR
+[2026.01.19-21.02.06:190][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/NRYQ2WN1WQD5JF6W84OQFR55ED425B4533AA60583B209831177E6F.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/5/0W/NRYQ2WN1WQD5JF6W84OQFR.uasset'
+[2026.01.19-21.02.06:196][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/UE/D199WPWWCJ3FV2HROQIG4D
+[2026.01.19-21.02.06:196][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/D199WPWWCJ3FV2HROQIG4D2C4870BC4E807CBEA615CDA41FE0C1E9.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/UE/D199WPWWCJ3FV2HROQIG4D.uasset'
+[2026.01.19-21.02.06:204][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/B7/5MXXQQLJDBU14NE85CBJDN
+[2026.01.19-21.02.06:204][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/5MXXQQLJDBU14NE85CBJDN99CD4B1646EE658D095C82A5AE2B7DCB.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/B7/5MXXQQLJDBU14NE85CBJDN.uasset'
+[2026.01.19-21.02.06:211][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/E/78/76L85HQ00CSAFW8UWP07KD
+[2026.01.19-21.02.06:211][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/76L85HQ00CSAFW8UWP07KD0AA4DE9F4B51F7FE9537069991A62FD8.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/E/78/76L85HQ00CSAFW8UWP07KD.uasset'
+[2026.01.19-21.02.06:221][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/LA/IDM65FQ1FNVXD2GHRZCIL6
+[2026.01.19-21.02.06:221][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/IDM65FQ1FNVXD2GHRZCIL6E1E24AE8496AA2E453DD58AC4A6110F1.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/LA/IDM65FQ1FNVXD2GHRZCIL6.uasset'
+[2026.01.19-21.02.06:229][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/Y5/7YGV48GD2FLKJNJYXA571H
+[2026.01.19-21.02.06:229][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/7YGV48GD2FLKJNJYXA571HB79BC4F14BEA874997C76C964B5761C0.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/Y5/7YGV48GD2FLKJNJYXA571H.uasset'
+[2026.01.19-21.02.06:236][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/F/3J/ZZ33QBZ59VAD4FSFTD14MX
+[2026.01.19-21.02.06:236][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/ZZ33QBZ59VAD4FSFTD14MXEF6E09A1403A2124851968B2E90EDB0F.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/F/3J/ZZ33QBZ59VAD4FSFTD14MX.uasset'
+[2026.01.19-21.02.06:243][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/C/ZY/0YUE9P0RC1TXCUSKGGW0MD
+[2026.01.19-21.02.06:243][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/0YUE9P0RC1TXCUSKGGW0MDFABFBD0A4FB732D7917DB9B64080F743.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/C/ZY/0YUE9P0RC1TXCUSKGGW0MD.uasset'
+[2026.01.19-21.02.06:251][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/L1/AGR4GFAH4BHDJCM0BUKIKY
+[2026.01.19-21.02.06:251][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/AGR4GFAH4BHDJCM0BUKIKYF3A498BC4D9A65E156B187AB908B9A60.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/L1/AGR4GFAH4BHDJCM0BUKIKY.uasset'
+[2026.01.19-21.02.06:258][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/8/UM/1JES8F38VYK1N7X7T98LFL
+[2026.01.19-21.02.06:258][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/1JES8F38VYK1N7X7T98LFL1009EB5E4EA6139CFD48C2AD187DDA12.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/8/UM/1JES8F38VYK1N7X7T98LFL.uasset'
+[2026.01.19-21.02.06:264][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/A/T4/16C20TU8F9CY3Q5WVTRHKQ
+[2026.01.19-21.02.06:264][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/16C20TU8F9CY3Q5WVTRHKQ98BC21BD4E2FAF0C57FFBDBFF2005210.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/A/T4/16C20TU8F9CY3Q5WVTRHKQ.uasset'
+[2026.01.19-21.02.06:271][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/0/1S/YVDV4PEMIPNYRGBZBFRWSQ
+[2026.01.19-21.02.06:271][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/YVDV4PEMIPNYRGBZBFRWSQ8C47FB2345D956F6A33A539A0A16E575.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/0/1S/YVDV4PEMIPNYRGBZBFRWSQ.uasset'
+[2026.01.19-21.02.06:278][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/3/KR/50V67OJRRVCA7SZ3EKO8UZ
+[2026.01.19-21.02.06:278][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/50V67OJRRVCA7SZ3EKO8UZ9C1817EE412CEF36B57B5FA224D463AE.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/3/KR/50V67OJRRVCA7SZ3EKO8UZ.uasset'
+[2026.01.19-21.02.06:285][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/1/AL/5ZIFWGTK7JOMP0KMJ7JHBY
+[2026.01.19-21.02.06:285][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/5ZIFWGTK7JOMP0KMJ7JHBY14D35B144A513D68A7D162A102583464.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/1/AL/5ZIFWGTK7JOMP0KMJ7JHBY.uasset'
+[2026.01.19-21.02.06:291][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/DN/UUL0HA0RMI7HZ25BPV1NAK
+[2026.01.19-21.02.06:291][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/UUL0HA0RMI7HZ25BPV1NAK12021705489BA81280A30FB3E69F9470.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/DN/UUL0HA0RMI7HZ25BPV1NAK.uasset'
+[2026.01.19-21.02.06:297][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/5/UW/8M5AH3L1KSWUUHZCEAWZ8K
+[2026.01.19-21.02.06:298][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/8M5AH3L1KSWUUHZCEAWZ8KB3DB73CE49147D0D13692492B011B98B.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/5/UW/8M5AH3L1KSWUUHZCEAWZ8K.uasset'
+[2026.01.19-21.02.06:305][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/7P/HW2GURG8ZJ5VGITYPYSHVK
+[2026.01.19-21.02.06:305][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/HW2GURG8ZJ5VGITYPYSHVK5ECAB3634A442A4795CCA9818BF0E4BB.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/7P/HW2GURG8ZJ5VGITYPYSHVK.uasset'
+[2026.01.19-21.02.06:311][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/DJ/WCJ2DOYDDBC30WEL3YZNGU
+[2026.01.19-21.02.06:311][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/WCJ2DOYDDBC30WEL3YZNGUF57626AF4F447B770EFA648FF8010653.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/DJ/WCJ2DOYDDBC30WEL3YZNGU.uasset'
+[2026.01.19-21.02.06:317][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/A/KD/TQ3PMZ0EXBMBEPF5YQN1HC
+[2026.01.19-21.02.06:317][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/TQ3PMZ0EXBMBEPF5YQN1HC99F1124E428885221821889E2306FDAC.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/A/KD/TQ3PMZ0EXBMBEPF5YQN1HC.uasset'
+[2026.01.19-21.02.06:325][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/2/2R/ITJ5NAAZYOBF6M92OIKTAS
+[2026.01.19-21.02.06:325][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/ITJ5NAAZYOBF6M92OIKTAS69BD9BAD4265DA8442EE5F8F42BBD08A.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/2/2R/ITJ5NAAZYOBF6M92OIKTAS.uasset'
+[2026.01.19-21.02.06:331][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/E/CE/PAGV7JMUKFI3YHCUZA8YHE
+[2026.01.19-21.02.06:331][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/PAGV7JMUKFI3YHCUZA8YHE177B64B0485841779C8A1B844AF6628D.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/E/CE/PAGV7JMUKFI3YHCUZA8YHE.uasset'
+[2026.01.19-21.02.06:337][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/19/IB6RLT1PT0IUEO39PR1WJO
+[2026.01.19-21.02.06:337][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/IB6RLT1PT0IUEO39PR1WJO9C4312DD441A279BF06423A6816B3935.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/19/IB6RLT1PT0IUEO39PR1WJO.uasset'
+[2026.01.19-21.02.06:344][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/UQ/GXWP93NUUGP9AY25XJWCNX
+[2026.01.19-21.02.06:344][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/GXWP93NUUGP9AY25XJWCNX11EC682C4896C36CB807A3BCC3157F44.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/UQ/GXWP93NUUGP9AY25XJWCNX.uasset'
+[2026.01.19-21.02.06:351][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/3/FO/IEUH7522G0CZR56USLDTDR
+[2026.01.19-21.02.06:351][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/IEUH7522G0CZR56USLDTDRF0B9313A4493A9A779D8CE86E49F0226.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/3/FO/IEUH7522G0CZR56USLDTDR.uasset'
+[2026.01.19-21.02.06:357][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/UE/ERQC3ENIZ22JN19CILVAUW
+[2026.01.19-21.02.06:357][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/ERQC3ENIZ22JN19CILVAUW8730FB004E7870573EEC6BBDC02117D2.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/D/UE/ERQC3ENIZ22JN19CILVAUW.uasset'
+[2026.01.19-21.02.06:364][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/B/Z3/Q2I6V9K55WBLMKJCNM7DDP
+[2026.01.19-21.02.06:364][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/Q2I6V9K55WBLMKJCNM7DDPC5D56E47494D00BFCADB43878394F99F.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/B/Z3/Q2I6V9K55WBLMKJCNM7DDP.uasset'
+[2026.01.19-21.02.06:371][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/S1/PBA30Q1DTPBF2QRVFYGDZT
+[2026.01.19-21.02.06:371][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/PBA30Q1DTPBF2QRVFYGDZTB434268A4EA677E724685C9B5DC59A2C.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/S1/PBA30Q1DTPBF2QRVFYGDZT.uasset'
+[2026.01.19-21.02.06:378][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/4/C0/OKH3T56RP3UQ6VZWPK8Q33
+[2026.01.19-21.02.06:378][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/OKH3T56RP3UQ6VZWPK8Q33106B51F741B62DFE220E538E403178A5.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/4/C0/OKH3T56RP3UQ6VZWPK8Q33.uasset'
+[2026.01.19-21.02.06:384][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/P7/GPQ7E1WDRVTS4M9IHYJ0AJ
+[2026.01.19-21.02.06:384][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/GPQ7E1WDRVTS4M9IHYJ0AJ4952C1E640CB94A90EE62AA344FECBE0.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/P7/GPQ7E1WDRVTS4M9IHYJ0AJ.uasset'
+[2026.01.19-21.02.06:391][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/5E/CKY3NWUVGCNKGT5O54TTX0
+[2026.01.19-21.02.06:391][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/CKY3NWUVGCNKGT5O54TTX082AC80AF42159CA6641CDB964F577584.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/5E/CKY3NWUVGCNKGT5O54TTX0.uasset'
+[2026.01.19-21.02.06:398][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/M5/QDE4B7MV3BH64890C3DI3P
+[2026.01.19-21.02.06:398][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/QDE4B7MV3BH64890C3DI3P50F136FE44683715BCECA6954CD6DA9B.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/9/M5/QDE4B7MV3BH64890C3DI3P.uasset'
+[2026.01.19-21.02.06:404][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/SG/9G0S98ZKWMQO3HML0QQY9W
+[2026.01.19-21.02.06:404][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/9G0S98ZKWMQO3HML0QQY9W0F857CF44051916341CB3EBED59041A7.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/6/SG/9G0S98ZKWMQO3HML0QQY9W.uasset'
+[2026.01.19-21.02.06:411][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/8C/TI9Y4SVJDGH8A5MJOQ3HFR
+[2026.01.19-21.02.06:411][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/TI9Y4SVJDGH8A5MJOQ3HFRB92626C74F50A220E998A4BE2F379EC3.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/8C/TI9Y4SVJDGH8A5MJOQ3HFR.uasset'
+[2026.01.19-21.02.06:419][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/3H/9DB6HKG7EUZKXNV3OP7TPJ
+[2026.01.19-21.02.06:419][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/9DB6HKG7EUZKXNV3OP7TPJ5301CECF429BD9EE412325BD58E46CE5.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/3H/9DB6HKG7EUZKXNV3OP7TPJ.uasset'
+[2026.01.19-21.02.06:426][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/0/WK/97NOXM8KUIAK87X6AYJP6U
+[2026.01.19-21.02.06:426][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/97NOXM8KUIAK87X6AYJP6UEF4A3F4944E53D5C80A214BC269BE849.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/0/WK/97NOXM8KUIAK87X6AYJP6U.uasset'
+[2026.01.19-21.02.06:432][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/1/WU/ILG3XRJ39GCNZMEUSMHXQD
+[2026.01.19-21.02.06:432][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/ILG3XRJ39GCNZMEUSMHXQDBE959B8547E1FC1FA14CB3A9526DD2BD.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/1/WU/ILG3XRJ39GCNZMEUSMHXQD.uasset'
+[2026.01.19-21.02.06:438][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/1/QB/R72CVSW9D4L33AEMPLP95F
+[2026.01.19-21.02.06:438][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/R72CVSW9D4L33AEMPLP95F6741292A4DFA38CFE926A5B995086F2F.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/1/QB/R72CVSW9D4L33AEMPLP95F.uasset'
+[2026.01.19-21.02.06:445][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/8/X9/LWYS5HNGXEBPPQA1PROAX9
+[2026.01.19-21.02.06:445][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/LWYS5HNGXEBPPQA1PROAX9D195DDFC455B760A0E04719095E86545.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/8/X9/LWYS5HNGXEBPPQA1PROAX9.uasset'
+[2026.01.19-21.02.06:451][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/8/JU/CWDRFZJEI7I89LT0622I2Y
+[2026.01.19-21.02.06:451][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/CWDRFZJEI7I89LT0622I2YB429AB3E4AFF4CED6CCA90AFD661C346.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/8/JU/CWDRFZJEI7I89LT0622I2Y.uasset'
+[2026.01.19-21.02.06:458][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/C/TT/8SWI0QAW13LWWAH7MMWO9P
+[2026.01.19-21.02.06:458][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/8SWI0QAW13LWWAH7MMWO9P8D9A63DB4A5A40D4B77E2A8E368A2FAE.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/C/TT/8SWI0QAW13LWWAH7MMWO9P.uasset'
+[2026.01.19-21.02.06:465][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/NH/JHI9AG5SDLI8OFZ79W8FBS
+[2026.01.19-21.02.06:465][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/JHI9AG5SDLI8OFZ79W8FBS5E195EE444E2847C77EC0594B2E2854B.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/7/NH/JHI9AG5SDLI8OFZ79W8FBS.uasset'
+[2026.01.19-21.02.06:471][ 79]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/8/90/N62VQ5T3S098XNJ9L1DQI3
+[2026.01.19-21.02.06:471][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/N62VQ5T3S098XNJ9L1DQI3C8D1563D4090977C6953F3B27E9D12DE.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/__ExternalActors__/FirstPerson/DayNightCycleBP_Level/LOL/8/90/N62VQ5T3S098XNJ9L1DQI3.uasset'
+[2026.01.19-21.02.06:473][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 455.331 ms (total: 613.674 ms)
+[2026.01.19-21.02.06:479][ 79]LogFileHelpers: Saving map 'LOL' took 0.495
+[2026.01.19-21.02.06:479][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/LOL] ([5] browsable assets)...
+[2026.01.19-21.02.06:479][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/LOL]
+[2026.01.19-21.02.06:479][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/LOL" FILE="../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/FirstPerson/LOL.umap" SILENT=true
+[2026.01.19-21.02.06:487][ 79]LogSavePackage: Moving output files for package: /Game/FirstPerson/LOL
+[2026.01.19-21.02.06:487][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/LOLEAD700DB422554C4307327B0E43877F6.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/FirstPerson/LOL.umap'
+[2026.01.19-21.02.06:488][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.04 sec (total: 1.65 sec)
+[2026.01.19-21.02.06:518][ 79]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.19-21.02.06:518][ 79]LogContentValidation: Display: Starting to validate 71 assets
+[2026.01.19-21.02.06:518][ 79]LogContentValidation: Enabled validators:
+[2026.01.19-21.02.06:518][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.19-21.02.06:518][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.19-21.02.06:518][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.19-21.02.06:518][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.19-21.02.06:518][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.19-21.02.06:518][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.19-21.02.06:518][ 79]AssetCheck: /Game/FirstPerson/DayNightCycleBP_Level/LOL Validation de la ressource
+[2026.01.19-21.02.06:518][ 79]AssetCheck: /Game/FirstPerson/LOL Validation de la ressource
+[2026.01.19-21.02.06:519][ 79]AssetCheck: /Game/FirstPerson/LOL Validation de la ressource
+[2026.01.19-21.02.06:519][ 79]AssetCheck: /Game/FirstPerson/LOL Validation de la ressource
+[2026.01.19-21.02.06:550][ 79]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.19-21.02.08:629][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.01.19-21.02.08:632][291]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/DayNightCycleBP_Level/LOL.LOL
+[2026.01.19-21.02.08:632][291]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/FirstPerson/DayNightCycleBP_Level/LOL.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.19-21.02.08:703][291]LogWorld: UWorld::CleanupWorld for TIIIIIIMEEEEERRRRR, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-21.02.08:703][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-21.02.08:717][291]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.19-21.02.08:721][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.01.19-21.02.08:723][291]LogWorld: UWorld::CleanupWorld for LOL, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-21.02.08:723][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-21.02.08:723][291]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/DayNightCycleBP_Level/LOL.LOL
+[2026.01.19-21.02.08:737][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.19-21.02.08:777][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.19-21.02.08:778][291]LogStreaming: Display: FlushAsyncLoading(600): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-21.02.08:790][291]LogAudio: Display: Audio Device (ID: 1) registered with world 'LOL'.
+[2026.01.19-21.02.08:790][291]LogChaosDD: Creating Chaos Debug Draw Scene for world LOL
+[2026.01.19-21.02.08:791][291]LogWorldPartition: ULevel::OnLevelLoaded(LOL)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.01.19-21.02.08:791][291]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.19-21.02.08:791][291]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/DayNightCycleBP_Level/LOL.LOL, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.19-21.02.08:802][291]LogWorldPartition: Display: WorldPartition initialize took 10.234 ms (total: 269.276 ms)
+[2026.01.19-21.02.08:814][291]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.19-21.02.08:827][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.01.19-21.02.08:840][291]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.19-21.02.08:840][291]MapCheck: Vérification de la carte terminée : 0 Erreur(s), 0 Avertissement(s), a pris 0,552ms pour s'exécuter.
+[2026.01.19-21.02.08:921][293]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.19-21.02.10:556][484]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2026.01.19-21.02.10:564][484]LogContentBundle: [LOL(Éditeur)] Generating Streaming for 0 Content Bundles.
+[2026.01.19-21.02.10:564][484]LogWorldPartition: Display: GenerateStreaming for 'LOL' started...
+[2026.01.19-21.02.10:564][484]LogWorldPartition: Display: GenerateStreaming for 'LOL' took 712 us (total: 2.130 ms)
+[2026.01.19-21.02.10:564][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.19-21.02.10:602][484]LogPlayLevel: Creating play world package: /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL
+[2026.01.19-21.02.10:606][484]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.19-21.02.10:607][484]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 884 us (total: 2.643 ms)
+[2026.01.19-21.02.10:607][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005241s)
+[2026.01.19-21.02.10:607][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/DayNightCycleBP_Level/LOL.LOL to /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL.LOL (0.005275s)
+[2026.01.19-21.02.10:621][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.01.19-21.02.10:623][484]LogChaosDD: Creating Chaos Debug Draw Scene for world LOL
+[2026.01.19-21.02.10:625][484]LogWorldPartition: ULevel::OnLevelLoaded(LOL)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.19-21.02.10:625][484]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.19-21.02.10:625][484]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL.LOL, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.19-21.02.10:625][484]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.19-21.02.10:626][484]LogWorldPartition: Display: WorldPartition initialize took 1.252 ms (total: 270.528 ms)
+[2026.01.19-21.02.10:626][484]LogPlayLevel: PIE: World Init took: (0.002672s)
+[2026.01.19-21.02.10:627][484]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.01.19-21.02.10:627][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.19-21.02.10:627][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.19-21.02.10:627][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.19-21.02.10:627][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.19-21.02.10:627][484]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.19-21.02.10:627][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.19-21.02.10:627][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.19-21.02.10:627][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.19-21.02.10:627][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.19-21.02.10:627][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.19-21.02.10:627][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.19-21.02.10:629][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.19-21.02.10:652][484]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- EKSA E900 Pro )
+[2026.01.19-21.02.10:652][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.19-21.02.10:652][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.19-21.02.10:652][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.19-21.02.10:652][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.01.19-21.02.10:652][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.01.19-21.02.10:654][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.01.19-21.02.10:654][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.01.19-21.02.10:654][484]LogInit: FAudioDevice initialized with ID 8.
+[2026.01.19-21.02.10:654][484]LogAudio: Display: Audio Device (ID: 8) registered with world 'LOL'.
+[2026.01.19-21.02.10:655][484]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.01.19-21.02.10:658][484]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.19-21.02.10:659][484]LogWorld: Bringing World /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL.LOL up for play (max tick rate 0) at 2026.01.19-22.02.10
+[2026.01.19-21.02.10:659][484]LogWorld: Bringing up level for play took: 0.001731
+[2026.01.19-21.02.10:662][484]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.01.19-21.02.10:667][484]PIE: Serveur connecté
+[2026.01.19-21.02.10:669][484]PIE: Play in Editor : temps total de démarrage 0,105 secondes.
+[2026.01.19-21.02.10:709][485]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.19-21.02.11:932][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.19-21.02.11:932][622]LogWorld: BeginTearingDown for /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL
+[2026.01.19-21.02.11:933][622]LogWorld: UWorld::CleanupWorld for LOL, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-21.02.11:933][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-21.02.11:933][622]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL.LOL
+[2026.01.19-21.02.11:934][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.19-21.02.11:937][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-21.02.11:949][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.19-21.02.11:949][622]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.01.19-21.02.11:949][622]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.01.19-21.02.11:952][622]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.01.19-21.02.11:957][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.01.19-21.02.12:010][626]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.01.19-21.02.14:647][936]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.01.19-21.02.15:343][ 10]LogStreaming: Display: FlushAsyncLoading(667): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-21.02.34:868][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.19-21.02.34:869][214]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_DayNightCycle/New_Lighting] ([2] browsable assets)...
+[2026.01.19-21.02.34:869][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_DayNightCycle/New_Lighting]
+[2026.01.19-21.02.34:869][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_DayNightCycle/New_Lighting" FILE="../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/BP_DayNightCycle/New_Lighting.uasset" SILENT=true
+[2026.01.19-21.02.34:882][214]LogSavePackage: Moving output files for package: /Game/BP_DayNightCycle/New_Lighting
+[2026.01.19-21.02.34:882][214]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/New_LightingFF04386E4D4CDF21AE144BBE946922D5.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/BP_DayNightCycle/New_Lighting.uasset'
+[2026.01.19-21.02.34:885][214]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/New_Lighting] ([5] browsable assets)...
+[2026.01.19-21.02.34:885][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/New_Lighting]
+[2026.01.19-21.02.34:885][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/New_Lighting" FILE="../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/New_Lighting.uasset" SILENT=true
+[2026.01.19-21.02.34:891][214]LogSavePackage: Moving output files for package: /Game/New_Lighting
+[2026.01.19-21.02.34:891][214]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/New_Lighting6033BE0C4068D39EFA27A3B7238D3482.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/New_Lighting.uasset'
+[2026.01.19-21.02.34:893][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.214 ms (total: 1.68 sec)
+[2026.01.19-21.02.34:913][214]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.19-21.02.34:913][214]LogContentValidation: Display: Starting to validate 4 assets
+[2026.01.19-21.02.34:913][214]LogContentValidation: Enabled validators:
+[2026.01.19-21.02.34:913][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.19-21.02.34:913][214]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.19-21.02.34:913][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.19-21.02.34:913][214]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.19-21.02.34:913][214]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.19-21.02.34:913][214]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.19-21.02.34:913][214]AssetCheck: /Game/BP_DayNightCycle/New_Lighting Validation de la ressource
+[2026.01.19-21.02.34:913][214]AssetCheck: /Game/New_Lighting Validation de la ressource
+[2026.01.19-21.02.34:914][214]AssetCheck: /Game/New_Lighting Validation de la ressource
+[2026.01.19-21.02.34:914][214]AssetCheck: /Game/New_Lighting Validation de la ressource
+[2026.01.19-21.02.34:936][214]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.19-21.02.36:597][378]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Night_Cycle.Night_Cycle
+[2026.01.19-21.02.36:598][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.01.19-21.02.36:628][378]LogStreaming: Display: FlushAsyncLoading(668): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-21.02.37:478][378]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.01.19-21.02.40:562][734]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-21.02.40:562][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-21.02.40:640][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.19-21.02.45:876][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.01.19-21.02.46:023][284]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.01.19-21.02.46:032][284]LogSlate: Took 0.009572 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.01.19-21.02.54:104][284]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-21.02.56:854][525]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Day_Cycle.Day_Cycle
+[2026.01.19-21.02.56:854][525]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.19-21.03.01:078][983]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-21.03.01:078][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-21.03.01:149][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.01.19-21.03.05:870][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.01.19-21.03.08:445][484]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-21.03.12:865][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.01.19-21.03.17:404][947]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-21.03.17:552][947]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Night_Cycle.Night_Cycle
+	Asset Type: Blueprint
+[2026.01.19-21.03.17:837][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.01.19-21.03.17:858][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.01.19-21.03.17:878][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.01.19-21.03.17:896][947]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.19-21.03.22:900][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.19-21.03.24:191][472]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-21.03.24:313][472]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Day_Cycle.Day_Cycle
+	Asset Type: Blueprint
+[2026.01.19-21.03.24:583][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.19-21.03.24:604][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.19-21.03.24:624][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.01.19-21.03.24:647][472]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.19-21.03.36:465][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.01.19-21.03.39:208][836]LogSlate: Window 'Enregistrer le contenu' being destroyed
+[2026.01.19-21.03.39:216][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.19-21.03.39:242][836]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_DayNightCycle/New_Lighting] ([2] browsable assets)...
+[2026.01.19-21.03.39:242][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_DayNightCycle/New_Lighting]
+[2026.01.19-21.03.39:242][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_DayNightCycle/New_Lighting" FILE="../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/BP_DayNightCycle/New_Lighting.uasset" SILENT=true
+[2026.01.19-21.03.39:259][836]LogSavePackage: Moving output files for package: /Game/BP_DayNightCycle/New_Lighting
+[2026.01.19-21.03.39:259][836]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Saved/New_Lighting46589BC443DCFDA7B1BC96823DE03DEA.tmp' to '../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/BP_DayNightCycle/New_Lighting.uasset'
+[2026.01.19-21.03.39:286][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.741 ms (total: 1.75 sec)
+[2026.01.19-21.03.39:286][836]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/DayNightCycleBP_Level/LOL.LOL
+[2026.01.19-21.03.39:286][836]Cmd: MAP LOAD FILE="../../../../../../Users/User/Documents/GitHub/Timer_Exo/Timer_ex/Content/FirstPerson/DayNightCycleBP_Level/LOL.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.19-21.03.39:325][836]LogWorld: UWorld::CleanupWorld for LOL, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-21.03.39:325][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-21.03.39:325][836]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/DayNightCycleBP_Level/LOL.LOL
+[2026.01.19-21.03.39:359][836]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.19-21.03.39:361][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.19-21.03.39:364][836]LogStreaming: Display: FlushAsyncLoading(802): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-21.03.39:387][836]LogAudio: Display: Audio Device (ID: 1) registered with world 'LOL'.
+[2026.01.19-21.03.39:387][836]LogChaosDD: Creating Chaos Debug Draw Scene for world LOL
+[2026.01.19-21.03.39:388][836]LogWorldPartition: ULevel::OnLevelLoaded(LOL)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.01.19-21.03.39:388][836]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.19-21.03.39:388][836]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/DayNightCycleBP_Level/LOL.LOL, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.19-21.03.39:407][836]LogWorldPartition: Display: WorldPartition initialize took 18.424 ms (total: 288.952 ms)
+[2026.01.19-21.03.39:420][836]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.19-21.03.39:442][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.19-21.03.39:455][836]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.19-21.03.39:456][836]MapCheck: Vérification de la carte terminée : 0 Erreur(s), 0 Avertissement(s), a pris 0,589ms pour s'exécuter.
+[2026.01.19-21.03.39:502][836]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.19-21.03.39:502][836]LogContentValidation: Enabled validators:
+[2026.01.19-21.03.39:502][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.19-21.03.39:502][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.19-21.03.39:502][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.19-21.03.39:502][836]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.19-21.03.39:502][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.19-21.03.39:502][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.19-21.03.39:502][836]AssetCheck: /Game/BP_DayNightCycle/New_Lighting Validation de la ressource
+[2026.01.19-21.03.39:524][836]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1356.250122
+[2026.01.19-21.03.39:532][837]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.19-21.03.39:667][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-21.03.39:667][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1356.375732, Update Interval: 345.785095
+[2026.01.19-21.03.41:123][  5]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2026.01.19-21.03.41:131][  5]LogContentBundle: [LOL(Éditeur)] Generating Streaming for 0 Content Bundles.
+[2026.01.19-21.03.41:131][  5]LogWorldPartition: Display: GenerateStreaming for 'LOL' started...
+[2026.01.19-21.03.41:132][  5]LogWorldPartition: Display: GenerateStreaming for 'LOL' took 712 us (total: 2.842 ms)
+[2026.01.19-21.03.41:133][  5]LogPlayLevel: [PlayLevel] Compiling New_Lighting before play...
+[2026.01.19-21.03.41:177][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.01.19-21.03.41:178][  5]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2026.01.19-21.03.41:179][  5]LogPlayLevel: Creating play world package: /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL
+[2026.01.19-21.03.41:182][  5]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.19-21.03.41:183][  5]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 869 us (total: 3.513 ms)
+[2026.01.19-21.03.41:183][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005098s)
+[2026.01.19-21.03.41:183][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/DayNightCycleBP_Level/LOL.LOL to /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL.LOL (0.005127s)
+[2026.01.19-21.03.41:203][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.01.19-21.03.41:204][  5]LogChaosDD: Creating Chaos Debug Draw Scene for world LOL
+[2026.01.19-21.03.41:205][  5]LogWorldPartition: ULevel::OnLevelLoaded(LOL)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.19-21.03.41:205][  5]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.19-21.03.41:205][  5]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL.LOL, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.19-21.03.41:205][  5]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.19-21.03.41:207][  5]LogWorldPartition: Display: WorldPartition initialize took 1.447 ms (total: 290.400 ms)
+[2026.01.19-21.03.41:207][  5]LogPlayLevel: PIE: World Init took: (0.003010s)
+[2026.01.19-21.03.41:207][  5]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.01.19-21.03.41:207][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.19-21.03.41:207][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.19-21.03.41:207][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.19-21.03.41:207][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.19-21.03.41:207][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.19-21.03.41:207][  5]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.19-21.03.41:207][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.19-21.03.41:207][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.19-21.03.41:207][  5]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.19-21.03.41:207][  5]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.19-21.03.41:207][  5]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.19-21.03.41:209][  5]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.19-21.03.41:232][  5]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- EKSA E900 Pro )
+[2026.01.19-21.03.41:232][  5]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.19-21.03.41:232][  5]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.19-21.03.41:232][  5]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.19-21.03.41:232][  5]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.01.19-21.03.41:232][  5]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.01.19-21.03.41:235][  5]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.01.19-21.03.41:235][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.01.19-21.03.41:235][  5]LogInit: FAudioDevice initialized with ID 9.
+[2026.01.19-21.03.41:235][  5]LogAudio: Display: Audio Device (ID: 9) registered with world 'LOL'.
+[2026.01.19-21.03.41:235][  5]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.01.19-21.03.41:238][  5]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.01.19-21.03.41:240][  5]LogWorld: Bringing World /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL.LOL up for play (max tick rate 0) at 2026.01.19-22.03.41
+[2026.01.19-21.03.41:240][  5]LogWorld: Bringing up level for play took: 0.001781
+[2026.01.19-21.03.41:242][  5]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.01.19-21.03.41:246][  5]PIE: Serveur connecté
+[2026.01.19-21.03.41:248][  5]PIE: Play in Editor : temps total de démarrage 0,118 secondes.
+[2026.01.19-21.03.41:300][  7]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.19-21.04.14:926][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.19-21.04.14:926][ 30]LogWorld: BeginTearingDown for /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL
+[2026.01.19-21.04.14:926][ 30]LogWorld: UWorld::CleanupWorld for LOL, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-21.04.14:927][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-21.04.14:927][ 30]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/DayNightCycleBP_Level/UEDPIE_0_LOL.LOL
+[2026.01.19-21.04.14:928][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.19-21.04.14:933][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-21.04.14:952][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.19-21.04.14:953][ 30]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.01.19-21.04.14:953][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.01.19-21.04.14:954][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.01.19-21.04.14:960][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.19-21.04.15:008][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.01.19-21.04.19:583][576]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
